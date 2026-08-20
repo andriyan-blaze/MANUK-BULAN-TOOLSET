@@ -14,7 +14,7 @@ Sebuah *toolset* komprehensif, cerdas, dan otomatis untuk melakukan ekstraksi (*
 *   **⚡ Hybrid Batch Scripts (.bat):** Dilengkapi dengan kumpulan *script* pendamping fungsional ganda:
     *   **Klik 2x (Double-Click):** Menyapu (*scan*) seluruh folder untuk memproses semua format secara otomatis.
     *   **Seret & Lepas (Drag & Drop):** Memproses satu file spesifik secara instan.
-*   **🎯 Akurasi 1:1 Original:** Algoritma penyelarasan (*alignment*) dan *padding* (termasuk *padding* `0xCD` khas RE4) yang didesain secara presisi untuk memastikan struktur file *repack* identik dengan arsip original, sehingga terhindar dari *freeze* di dalam game.
+*   **🎯 Akurasi 1:1 Original:** Algoritma penyelarasan (*alignment*) dan *padding* (termasuk *padding* khas RE4) yang didesain secara presisi untuk memastikan struktur file *repack* identik dengan arsip original, sehingga terhindar dari *freeze* di dalam game.
 
 ---
 
