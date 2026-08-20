@@ -1,4 +1,4 @@
-# 🦅 Manuk Bulan Toolset v1.00
+# 🦅 Manuk Bulan Toolset
 
 **Ultimate PS2 Modding Kit untuk God Hand & Resident Evil 4**
 
