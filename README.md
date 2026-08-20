@@ -32,7 +32,7 @@ Sebuah *toolset* komprehensif, cerdas, dan otomatis untuk melakukan ekstraksi (*
 *   `.TM3` *(Texture Data - Includes Name/Header Fix)*
 
 ### 🧟 Resident Evil 4 (PS2)
-*   `.DAT` *(Core Archive - Auto 0xCD Padding Support)*
+*   `.DAT` *(Core Archive)*
 *   `.BIN` *(3D Mesh Data)*
 *   `.TPL` *(Texture Splitter & Merger)*
 
