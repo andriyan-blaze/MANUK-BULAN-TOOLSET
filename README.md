@@ -1,6 +1,6 @@
 # 🦅 Manuk Bulan Toolset
 
-**Ultimate PS2 Modding Kit untuk God Hand & Resident Evil 4**
+**Ultimate PS2 Modding Kit untuk God Hand & Resident Evil 4 (Game lain mendatang)**
 
 Sebuah *toolset* komprehensif, cerdas, dan otomatis untuk melakukan ekstraksi (*Unpack*) dan pengemasan kembali (*Repack*) berbagai format arsip dari game **God Hand (PS2)** dan **Resident Evil 4 (PS2)**. Dikembangkan khusus untuk mempermudah alur kerja *modding* dengan dukungan antarmuka Command Line (CLI) dan *Drag & Drop* yang praktis.
 
