@@ -21,12 +21,17 @@ Sebuah *toolset* komprehensif, cerdas, dan otomatis untuk melakukan ekstraksi (*
 ## 🎮 Format yang Didukung
 
 ### 👊 God Hand (PS2)
-*   `.DAT` *(Data Archive)*
 *   `.BIN` *(Binary Archive)*
+*   `.D` *(Data Archive)*
+*   `.DA` *(Data Archive)*
+*   `.DAT` *(Data Archive)*
 *   `.EFF` *(Effect File)*
 *   `.EFM` *(Effect Model)*
 *   `.EMD` *(Enemy/Entity Model Data)*
+*   `.I` *(Interface/Image Archive)*
+*   `.ID` *(ID Data Archive)*
 *   `.IDD` *(ID Data)*
+*   `.PAC` *(Package Archive)*
 *   `.SCP` *(Script/Screen Data)*
 *   `.TBL` *(Table Data)*
 *   `.TM3` *(Texture Data - Includes Name/Header Fix)*
